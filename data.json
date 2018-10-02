@@ -1,0 +1,41 @@
+{
+	"id": "xKnxS987sDJf77600sHjdyDhskJShdskshjS75sa765sa",
+	"username": "randy",
+	"password": "jAnxS987sDJf77600sHjdyDhskJShdskshjS75sa765sa",
+	"bookmarks": [
+		{
+			"url": "http://www.favorite-site.com",
+			"title": "Joys of Bookmarking",
+			"tags": [],
+			"images": [],
+			"created": "timestamp",
+			"folder": "folder",
+			"description": "description",
+			"keyword": "keyword",
+			"loadInSidebar": "boolean",
+			"type": "string",
+			"category": "category-name",
+			"category_list": [
+				{
+					"id": "8867",
+					"name": "category-name"
+				}
+			],
+			"parentid": "GUID-parentidTree",
+			"parentName": "name of folder",
+			"predecessorid": "GUID-predecessoridTree"
+		},
+		{
+			"more": "more..."
+		}
+	],
+	"microsummaries": [
+		{
+			"generatorUri": "generates the summary",
+			"staticTitle": "shows when no summaries are available",
+			"title": "name of microsummary",
+			"bmkUri": "page to load",
+			"description": "extra description provided"
+		}
+	]
+}
