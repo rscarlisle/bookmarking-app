@@ -45,5 +45,39 @@
 			"predecessorid": "GUID of previous item, or (empty if 1st item)",
 			"type": "microsummary"
 		}
+	],
+	"queries": [
+		{
+			"folderName": "name of the folder/tag to link to",
+			"queryId": "identifier of the smart bookmark query",
+			"title": "name of the query",
+			"bmkUri": "string place: uri query",
+			"description": "extra description if provided",
+			"loadInSidebar": "true if the bookmark should load in the sidebar",
+			"tags": "tags for the query",
+			"keyword": "alias to activate the bookmark from the location bar",
+			"parentid": "GUID of the containing folder",
+			"parentName": "name of the containing folder",
+			"predecessorid": "GUID of the item before this (empty if it’s first)",
+			"type": "query"
+		}
+	],
+	"folders": [
+		{
+			"title": "name of folder",
+			"parentid": "GUID of the containing folder",
+			"parentName": "name of the containing folder",
+			"predecessorid": "GUID of the item before this (empty if it’s first)",
+			"type": "query"
+		}
+	],
+	"separators": [
+		{
+			"pos": "position (index of the separator)",
+			"parentid": "GUID of the containing folder",
+			"parentName": "name of the containing folder",
+			"predecessorid": "GUID of the item before this (empty if it’s first)",
+			"type": "separator"
+		}
 	]
 }
