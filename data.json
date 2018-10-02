@@ -36,7 +36,14 @@
 			"staticTitle": "shows when no summaries are available",
 			"title": "name of microsummary",
 			"bmkUri": "page to load",
-			"description": "extra description provided"
+			"description": "extra description provided",
+			"loadInSidebar": "true if bkm should load in side bar",
+			"tags": ["tags for the bookmark"],
+			"keyword": "alias to activate the bkm from the location bar",
+			"parentid": "GUID-parentidTree",
+			"parentName": "name of folder",
+			"predecessorid": "GUID of previous item, or (empty if 1st item)",
+			"type": "microsummary"
 		}
 	]
 }
