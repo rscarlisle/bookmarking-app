@@ -1,1 +1,1 @@
-# bookmarking-app
+# bookmarking-manager
