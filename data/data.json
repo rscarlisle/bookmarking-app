@@ -1,0 +1,18 @@
+{
+  "id": "xKnxS987sDJf77600sHjdyDhskJShdskshjS75sa765sa",
+  "username": "randy",
+  "password": "jAnxS987sDJf77600sHjdyDhskJShdskshjS75sa765sa",
+  "type": "object",
+  "bookmarks": [
+    {
+      "url": "http://www.favorite-site.com",
+      "title": "Joys of Bookmarking",
+      "tags": [],
+      "images": [],
+      "icons": [],
+      "created": "timestamp",
+      "folder": "folder",
+      "description": "description"
+    }
+  ]
+}
